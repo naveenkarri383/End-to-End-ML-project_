@@ -1,4 +1,14 @@
 # End-to-End-ML-project_
 
-git config --global user.email "karrinaveen.mme@gmail.com"
-git config --global user.name "naveenkarri383"
+#Creating a virtual environment
+'''bash
+conda create -n mlproject python=3.9 -y
+'''
+
+'''bash
+conda activate mlproject
+'''
+
+'''bash
+pip install -r requirements.txt
+'''

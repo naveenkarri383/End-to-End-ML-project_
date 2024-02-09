@@ -1,0 +1,15 @@
+pandas
+notebook
+numpy
+scikit-learn
+python-box
+matplotlib
+pyYAML
+ensure
+joblib  # saving machine learning model
+types-pyYAML
+Flask
+Flask-Cors
+
+-e . # Local package setup
+ # Creating environment in the directory
