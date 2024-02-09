@@ -21,12 +21,15 @@ list_of_files=[
     f"src/{project_name}/constants/__init__.py",
     "config/congifg.yaml",
     "schema.yaml",
+    "params.yaml",
     "main.py",
     "app.py",
     "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
     "templates/index.html"
+
+    
 
 
 ]
